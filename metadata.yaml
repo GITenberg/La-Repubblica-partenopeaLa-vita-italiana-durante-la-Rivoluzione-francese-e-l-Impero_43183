@@ -1,0 +1,32 @@
+_repo: La-Repubblica-partenopeaLa-vita-italiana-durante-la-Rivoluzione-francese-e-l-Impero_43183
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43183-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pompilj, Guido
+    birthdate: 1854
+    deathdate: 1910
+    gutenberg_agent_id: '42057'
+    url: http://www.gutenberg.org/2009/agents/42057
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2013-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43183'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Civilization'
+- !lcc 'DG'
+- !lcsh 'Italy -- History -- 1789-1815'
+- !lcsh 'France -- History -- 1789-1815'
+- !lcsh 'Italy -- Social conditions'
+title: 'La Repubblica partenopea
+
+  La vita italiana durante la Rivoluzione francese e l''Impero'
+url: http://www.gutenberg.org/ebooks/43183
